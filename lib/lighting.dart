@@ -15,6 +15,7 @@ class lighting extends StatelessWidget {
               label: Text('back')),),
         body: ModelViewer(
           ar: true,
+
           cameraControls: true,
           skyboxImage:
           "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr",
